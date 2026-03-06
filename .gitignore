@@ -7,3 +7,4 @@ __pycache__/
 *.mid
 *.midi
 *.mp3
+*.wav
